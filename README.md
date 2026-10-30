@@ -57,5 +57,3 @@ Plaintext
 
     Entrada e Saída Padrão (stdio.h)
 
-
-<FollowUp label="Precisa de ajuda com os comandos do Git para
